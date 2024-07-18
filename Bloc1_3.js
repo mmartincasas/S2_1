@@ -1,9 +1,8 @@
 'use strict'
 
 /*NIVELL 1*/
-/* Exercici 1 */ /* REVISAAAAR */
+/* Exercici 1 */
 let procesar = (nombre, callback) => callback (nombre)
-
 let saludo = nombre => console.log(`Hola ${nombre}!`)
 
 console.log('Ejercicio 1:')
